@@ -1,0 +1,66 @@
+C:\Users\Nehal\Documents\Visual Studio 2012\Projects\Lab10\Lab10\bin\Debug\Lab10.exe.config
+C:\Users\Nehal\Documents\Visual Studio 2012\Projects\Lab10\Lab10\bin\Debug\Lab10.exe
+C:\Users\Nehal\Documents\Visual Studio 2012\Projects\Lab10\Lab10\bin\Debug\Lab10.pdb
+C:\Users\Nehal\Documents\Visual Studio 2012\Projects\Lab10\Lab10\obj\Debug\Lab10.exe
+C:\Users\Nehal\Documents\Visual Studio 2012\Projects\Lab10\Lab10\obj\Debug\Lab10.pdb
+C:\Users\Nehal\Documents\Visual Studio 2012\Projects\Lab10\Lab10\obj\Debug\Lab10.csprojResolveAssemblyReference.cache
+C:\Users\Yomna\Dropbox\File Organization\File 2015\Labs Presentations\Lab Work\Lab10\Lab10\Lab10\bin\Debug\Lab10.exe.config
+C:\Users\Yomna\Dropbox\File Organization\File 2015\Labs Presentations\Lab Work\Lab10\Lab10\Lab10\obj\Debug\Lab10.exe
+C:\Users\Yomna\Dropbox\File Organization\File 2015\Labs Presentations\Lab Work\Lab10\Lab10\Lab10\obj\Debug\Lab10.pdb
+D:\File Organization\Lab04\Lab10\Lab10\bin\Debug\Lab10.exe.config
+D:\File Organization\Lab04\Lab10\Lab10\obj\Debug\Lab10.exe
+D:\File Organization\Lab04\Lab10\Lab10\obj\Debug\Lab10.pdb
+D:\File Organization\Lab04\Lab10\Lab10\bin\Debug\Lab10.exe
+D:\File Organization\Lab04\Lab10\Lab10\bin\Debug\Lab10.pdb
+D:\File Organization\Lab04\Lab10\Lab10\obj\Debug\Lab10.csprojResolveAssemblyReference.cache
+E:\TA Work\2015-2016\Second Term\Lab4\Lab04\Lab10\bin\Debug\Lab10.exe.config
+E:\TA Work\2015-2016\Second Term\Lab4\Lab04\Lab10\obj\Debug\Lab10.exe
+E:\TA Work\2015-2016\Second Term\Lab4\Lab04\Lab10\obj\Debug\Lab10.pdb
+E:\TA Work\2015-2016\Second Term\Lab4\Lab04\Lab10\bin\Debug\Lab10.exe
+E:\TA Work\2015-2016\Second Term\Lab4\Lab04\Lab10\bin\Debug\Lab10.pdb
+E:\TA Work\2015-2016\Second Term\Lab4\Lab04\Lab10\obj\Debug\Lab10.csprojResolveAssemblyReference.cache
+E:\TA Work\2015-2016\Second Term\Lab4\For Stds\Lab04\Lab10\bin\Debug\Lab10.exe.config
+E:\TA Work\2015-2016\Second Term\Lab4\For Stds\Lab04\Lab10\obj\Debug\Lab10.exe
+E:\TA Work\2015-2016\Second Term\Lab4\For Stds\Lab04\Lab10\obj\Debug\Lab10.pdb
+C:\Users\Nehal\Google Drive\File Organization 2017\File 2016\Labs\Lab4\For Stds\Lab04\Lab10\bin\Debug\Lab10.exe.config
+C:\Users\Nehal\Google Drive\File Organization 2017\File 2016\Labs\Lab4\For Stds\Lab04\Lab10\obj\Debug\Lab10.exe
+C:\Users\Nehal\Google Drive\File Organization 2017\File 2016\Labs\Lab4\For Stds\Lab04\Lab10\obj\Debug\Lab10.pdb
+C:\Users\Nehal\Google Drive\File Organization 2017\File 2016\Labs\Lab4\For Stds\Lab04\Lab10\bin\Debug\Lab10.exe
+C:\Users\Nehal\Google Drive\File Organization 2017\File 2016\Labs\Lab4\For Stds\Lab04\Lab10\bin\Debug\Lab10.pdb
+C:\Users\Nehal\Google Drive\File Organization 2017\File 2016\Labs\Lab4\For Stds\Lab04\Lab10\obj\Debug\Lab10.csprojResolveAssemblyReference.cache
+E:\Sem 2\Files Organization\Labs\Lab 04\Lab04\Lab10\bin\Debug\Lab10.exe.config
+E:\Sem 2\Files Organization\Labs\Lab 04\Lab04\Lab10\obj\Debug\Lab10.exe
+E:\Sem 2\Files Organization\Labs\Lab 04\Lab04\Lab10\obj\Debug\Lab10.pdb
+E:\Sem 2\Files Organization\Labs\Lab 04\Lab04\Lab10\bin\Debug\Lab10.exe
+E:\Sem 2\Files Organization\Labs\Lab 04\Lab04\Lab10\bin\Debug\Lab10.pdb
+E:\Sem 2\Files Organization\Labs\Lab 04\Lab04\Lab10\obj\Debug\Lab10.csprojResolveAssemblyReference.cache
+C:\Users\anton\Downloads\Music\Lab04_2\Lab04\Lab10\bin\Debug\Lab10.exe.config
+C:\Users\anton\Downloads\Music\Lab04_2\Lab04\Lab10\obj\Debug\Lab10.exe
+C:\Users\anton\Downloads\Music\Lab04_2\Lab04\Lab10\obj\Debug\Lab10.pdb
+C:\Users\anton\Downloads\Music\Lab04_2\Lab04\Lab10\bin\Debug\Lab10.exe
+C:\Users\anton\Downloads\Music\Lab04_2\Lab04\Lab10\bin\Debug\Lab10.pdb
+C:\Users\anton\Downloads\Music\Lab04_2\Lab04\Lab10\obj\Debug\Lab10.csprojResolveAssemblyReference.cache
+C:\Users\anton\Desktop\Lab04_2\Lab04\Lab10\bin\Debug\Lab10.exe.config
+C:\Users\anton\Desktop\Lab04_2\Lab04\Lab10\obj\Debug\Lab10.exe
+C:\Users\anton\Desktop\Lab04_2\Lab04\Lab10\obj\Debug\Lab10.pdb
+C:\Users\anton\Desktop\Lab04_2\Lab04\Lab10\obj\Debug\Lab10.csprojResolveAssemblyReference.cache
+C:\Users\anton\Desktop\Lab04_2\Lab04\Lab10\bin\Debug\Lab10.exe
+C:\Users\anton\Desktop\Lab04_2\Lab04\Lab10\bin\Debug\Lab10.pdb
+C:\Users\Admin\Desktop\Lab10\bin\Debug\Lab10.exe.config
+C:\Users\Admin\Desktop\Lab10\obj\Debug\Lab10.exe
+C:\Users\Admin\Desktop\Lab10\obj\Debug\Lab10.pdb
+C:\Users\Admin\Desktop\Lab10\bin\Debug\Lab10.exe
+C:\Users\Admin\Desktop\Lab10\bin\Debug\Lab10.pdb
+C:\Users\Admin\Desktop\Lab10\obj\Debug\Lab10.csprojResolveAssemblyReference.cache
+E:\Projects\MuSic SoRteR\Lab10\bin\Debug\Lab10.exe.config
+E:\Projects\MuSic SoRteR\Lab10\obj\Debug\Lab10.exe
+E:\Projects\MuSic SoRteR\Lab10\obj\Debug\Lab10.pdb
+E:\Projects\MuSic SoRteR\Lab10\bin\Debug\Lab10.exe
+E:\Projects\MuSic SoRteR\Lab10\bin\Debug\Lab10.pdb
+E:\Projects\MuSic SoRteR\Lab10\obj\Debug\Lab10.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\MuSic-SoRteR\MuSic SoRteR\Lab10\bin\Debug\Lab10.exe.config
+C:\Users\hp\Desktop\MuSic-SoRteR\MuSic SoRteR\Lab10\obj\Debug\Lab10.exe
+C:\Users\hp\Desktop\MuSic-SoRteR\MuSic SoRteR\Lab10\obj\Debug\Lab10.pdb
+C:\Users\hp\Desktop\MuSic-SoRteR\MuSic SoRteR\Lab10\bin\Debug\Lab10.exe
+C:\Users\hp\Desktop\MuSic-SoRteR\MuSic SoRteR\Lab10\bin\Debug\Lab10.pdb
+C:\Users\hp\Desktop\MuSic-SoRteR\MuSic SoRteR\Lab10\obj\Debug\Lab10.csprojResolveAssemblyReference.cache
